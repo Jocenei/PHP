@@ -1,5 +1,6 @@
 <?php 
 
-	echo "Ola <strong>Mundo</strong>"
+	echo "Hello <strong>World</strong>"
+    echo "Olá Mundo"
 
 ?>
